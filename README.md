@@ -1,5 +1,3 @@
 # ExposureNorm-Compensation
-CVPR2022
 
-
-code coming soon in 1 month!
+## unfinished, I will add more instructions soon!
