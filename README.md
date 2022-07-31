@@ -1,5 +1,3 @@
-# ExposureNorm-Compensation
-
 # Exposure Normalization and Compensation for Multiple-Exposure Correction (CVPR 2022)
 
 Jie Huang, Yajing Liu, Xueyang Fu, Man Zhou, Yang Wang, Feng Zhao*, Zhiwei Xiong
