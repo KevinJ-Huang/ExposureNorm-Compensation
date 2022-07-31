@@ -194,10 +194,10 @@ class SIEN_Model(BaseModel):
         self.log_dict['l_total'] = l_total.item()
 
 
-    def test(self,idx,name):
+    def test(self):
         self.netG.eval()
         with torch.no_grad():
-            out,_,_ = self.netG(self.var_L,idx,name)
+            out,_,_ = self.netG(self.var_L)
             self.fake_H = out
         self.netG.train()
 
